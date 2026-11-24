@@ -1,8 +1,6 @@
 # KIT de herramientas esenciales
 
-Herramientas de utilidad para estudiantes de Informática.
-
-Este repositorio acompaña la charla para ingresantes de las **Jornadas de Informática 2026** (Universidad Nacional de la Patagonia San Juan Bosco). Acá está todo lo que mostramos, con el primer paso para arrancar con cada herramienta y algunos recursos para seguir aprendiendo por tu cuenta.
+Este repositorio reúne las herramientas de la charla para ingresantes de las **Jornadas de Informática 2026** (Universidad Nacional de la Patagonia San Juan Bosco). Acá está todo lo que mostramos, con el primer paso para arrancar con cada herramienta y algunos recursos para seguir aprendiendo por tu cuenta.
 
 > Estás viendo un repositorio de GitHub, y este texto es un archivo en Markdown (`README.md`). Las dos cosas son parte de lo que vimos en la charla.
 
