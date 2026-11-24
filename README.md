@@ -74,7 +74,7 @@ docker run hello-world
 
 ## IA: aprender mejor
 
-**La idea.** La IA es tu copiloto, no el piloto. Bien usada, te ayuda a entender más rápido; si la usás para que te haga el TP, el día del parcial (sin IA) no vas a saber nada.
+**La idea.** La IA, bien usada, te ayuda a entender más rápido; si la usás para que te haga el TP, el día del parcial (sin IA) no vas a saber nada.
 
 **Cómo usarla para aprender**
 
@@ -83,7 +83,7 @@ docker run hello-world
 3. **Verificá siempre.** Se equivoca con total seguridad: probá el código.
 4. **Respetá las reglas de cada cátedra.** Antes de usarla en un TP, preguntá. Y nunca pegues contraseñas ni datos personales.
 
-**Probalo así** (copiá este prompt en [Gemini](https://gemini.google.com) o [Claude](https://claude.ai)):
+**Probalo así** (copiá este prompt en [Gemini](https://gemini.google.com), [Claude](https://claude.ai) u otro chatbot):
 
 ```text
 Soy estudiante de primer año de Informática. Este código me da este error: [pegá el error y el código]. Explicame por qué pasa y dame una pista para arreglarlo, pero no me des la solución completa.
@@ -94,8 +94,8 @@ Soy estudiante de primer año de Informática. Este código me da este error: [p
 | Tipo | Ejemplos | Para qué te sirve |
 | --- | --- | --- |
 | Chat | Gemini, Claude, ChatGPT | Entender conceptos, errores y enunciados |
-| En el editor | GitHub Copilot | Sugerencias y chat dentro de VS Code |
-| Agentes de código | Claude Code, Codex CLI, Gemini CLI | Trabajan sobre un proyecto entero. Para más adelante, cuando domines lo básico |
+| En el editor | GitHub Copilot | Sugerencias y chat dentro de VS Code u otro IDE |
+| Agentes de código | Claude Code, Codex CLI, Antigravity CLI | Trabajan sobre un proyecto entero |
 
 **Podés adaptarla a vos**
 
@@ -107,7 +107,7 @@ Soy estudiante de primer año de Informática. Este código me da este error: [p
 
 - **La terminal.** Muchas herramientas se usan escribiendo comandos. En Windows es PowerShell: [Introducción a PowerShell](https://learn.microsoft.com/es-es/powershell/scripting/learn/ps101/01-getting-started) (Microsoft Learn, en español).
 - **Un entorno de desarrollo (IDE).** Editor, terminal, Git y asistentes de IA en un solo lugar. El más usado hoy es [VS Code](https://code.visualstudio.com/), pero hay muchos más (IntelliJ, PyCharm, Eclipse…).
-- **Markdown.** El formato de los README y de la documentación de tus TP: [Sintaxis básica de redacción y formato](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) (GitHub Docs, en español).
+- **Markdown.** El formato de los README: [Sintaxis básica de redacción y formato](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) (GitHub Docs, en español).
 
 ## Un caso real: Charmy
 
